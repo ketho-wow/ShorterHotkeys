@@ -1,0 +1,8 @@
+{
+	"Lua.diagnostics.globals": [
+		"NUM_ACTIONBAR_BUTTONS",
+		"WOW_PROJECT_WRATH_CLASSIC",
+		"ActionBarButtonEventsFrame",
+		"PetActionBar"
+	]
+}

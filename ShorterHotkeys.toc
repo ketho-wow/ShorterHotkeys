@@ -1,0 +1,11 @@
+## Interface: 100002
+## Interface-Classic: 11403
+## Interface-Wrath: 30400
+## Version: @project-version@
+## Title: ShorterHotkeys
+## Notes: Abbreviates hotkey names on action buttons
+## Author: Ketho @ EU-Boulderfist
+
+ShorterHotkeys.lua
+Mainline.lua
+Classic.lua
